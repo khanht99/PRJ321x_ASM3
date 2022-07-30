@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
- <link rel="stylesheet" href="../CSS/footer.css">
+	<link type="text/css" rel="stylesheet" href="<c:url value="/resources/CSS/footer.css" />" />
 </head>
 <body>
 	<div id="footer">

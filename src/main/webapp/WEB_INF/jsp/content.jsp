@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<link rel="stylesheet" href="../CSS/content.css">
+	<link type="text/css" rel="stylesheet" href="<c:url value="resources/CSS/content.css" />" />
 <link rel="stylesheet" href="./JS/listProduct.js">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 </head>

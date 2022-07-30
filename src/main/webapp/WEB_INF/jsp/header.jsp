@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-  <link rel="stylesheet" href="../CSS/header.css">
+	<link type="text/css" rel="stylesheet" href="<c:url value="/resources/CSS/header.css" />" />
 </head>
 <body>
 	<div id="header">
